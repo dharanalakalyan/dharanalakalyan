@@ -38,7 +38,7 @@
 
 ###
 <h3 align="left"> For My Portfolio Website Click👇</h3>
-<a herf ="https://kalyandharanalaportfolio.netlify.app/" portfolio </a>
+<a href="https://kalyandharanalaportfolio.netlify.app/&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 
 ###
 

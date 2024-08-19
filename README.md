@@ -38,8 +38,9 @@
 
 ###
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU"  />
   <a href="https://kalyandharanalaportfolio.netlify.app/" target="_blank">
+   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU"  />
+  </a>
 
 
 ###

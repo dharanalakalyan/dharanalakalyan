@@ -39,7 +39,7 @@
 ###
 <h3 align = "left"> Click here for my portfolio </h3>
 <div align="center">
-  <a href="https://kalyandharanalaportfolio.netlify.app/" target="_blank">/>
+  <a href="https://kalyandharanalaportfolio.netlify.app/" target="_blank">
   </a>
 
 
